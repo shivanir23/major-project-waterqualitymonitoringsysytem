@@ -11,4 +11,4 @@ Arduino Genuino 101 is interfaced to 4 sensors. All of them requires some interf
 
 
 CONCLUSION
-Hence IOT is used to develop a integerated automated water quality monitoring system which hellps in monitorig,saves time,collects information to make qualty decisions.
+Hence IOT is used to develop a integerated automated water quality monitoring system which helps in monitoring,saves time,collects information to make quality decisions.
